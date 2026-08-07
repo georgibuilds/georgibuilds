@@ -12,12 +12,13 @@ Left to pursue smart contract security full-time.
 | Chainlink Payment Abstraction V2 | April 2026 | Code4rena | 1L |
 | Intuition / AirDropper | May 2026 | Code4rena | 1L |
 | Base Azul | May 2026 | Immunefi | — |
+| BAttleChain Confidence Pools| July 2026 | CodeHawks | 1L |
 
 ## CodeHawks First Flights
 
 | Rank | High | Medium | Low | Valid Submissions |
 |------|------|--------|-----|-------------------|
-| #96 | 13 | 6 | 1 | 20 |
+| #86 | 13 | 7 | 3 | 23 |
 
 ---
 
