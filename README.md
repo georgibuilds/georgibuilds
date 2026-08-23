@@ -13,6 +13,7 @@ Left to pursue smart contract security full-time.
 | Intuition / AirDropper | May 2026 | Code4rena | 1L |
 | Base Azul | May 2026 | Immunefi | — |
 | BAttleChain Confidence Pools| July 2026 | CodeHawks | 1L |
+| Audit Comp Firelight | August | Immunefi | 1 H |
 
 ## CodeHawks First Flights
 
