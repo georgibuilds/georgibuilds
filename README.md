@@ -14,6 +14,9 @@ Left to pursue smart contract security full-time.
 | Base Azul | May 2026 | Immunefi | — |
 | BAttleChain Confidence Pools| July 2026 | CodeHawks | 1L |
 | Audit Comp Firelight | August 2026 | Immunefi | 1 H |
+| AERO | September 2026 | Sherlock | 2 M |
+
+
 
 ## CodeHawks First Flights
 
