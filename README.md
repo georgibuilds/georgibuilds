@@ -1,4 +1,4 @@
-# georgibuilds — Smart Contract Security Reviews
+# georgibuilds - Smart Contract Security Reviews
 
 Mechanical and process engineer for 10+ years across two companies.
 Left to pursue smart contract security full-time.
